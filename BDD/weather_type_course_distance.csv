@@ -1,0 +1,237 @@
+year,race_name,weather,Course_Type,laps,distance
+2010,Bahrain Grand Prix,1,Permanent racing facility,49,308.405
+2010,Australian Grand Prix,3,Temporary street circuit,58,307.574
+2010,Malaysian Grand Prix,2,Permanent racing facility,56,310.408
+2010,Chinese Grand Prix,3,Permanent racing facility,56,305.066
+2010,Spanish Grand Prix,2,Permanent racing facility,66,307.104
+2010,Monaco Grand Prix,2,Street circuit,78,260.52
+2010,Turkish Grand Prix,3,Permanent racing facility,58,309.396
+2010,Canadian Grand Prix,3,Street circuit,70,305.270
+2010,European Grand Prix,1,Temporary street circuit,57,308.883
+2010,British Grand Prix,1,Permanent racing facility,52,306.747
+2010,German Grand Prix,2,Permanent racing facility,67,306.458
+2010,Hungarian Grand Prix,1,Permanent racing facility,70,306.630
+2010,Belgian Grand Prix,3,Permanent racing facility,44,308.052
+2010,Italian Grand Prix,1,Permanent racing facility,53,306.720
+2010,Singapore Grand Prix,1,Street Circuit,61,309.316
+2010,Japanese Grand Prix,1,Permanent racing facility,53,307.471
+2010,Korean Grand Prix,3,Korea International Circuit,55,308.630
+2010,Brazilian Grand Prix,1,Permanent racing facility,71,305.909
+2010,Abu Dhabi Grand Prix,1,Yas Marina Circuit,55,305.355
+2011,Australian Grand Prix,1,Temporary street circuit,58,307.574
+2011,Malaysian Grand Prix,2,Permanent racing facility,56,310.408
+2011,Chinese Grand Prix,1,Permanent racing facility,56,305.066
+2011,Turkish Grand Prix,1,Permanent racing facility,58,309.396
+2011,Spanish Grand Prix,1,Permanent racing facility,66,307.104
+2011,Monaco Grand Prix,1,Street circuit,78,260.52
+2011,Canadian Grand Prix,3,Street circuit,70,305.270
+2011,European Grand Prix,1,Temporary street circuit,57,308.883
+2011,British Grand Prix,3,Permanent racing facility,52,306.198
+2011,German Grand Prix,3,Permanent racing facility,60,308.863
+2011,Hungarian Grand Prix,3,Permanent racing facility,70,306.630
+2011,Belgian Grand Prix,2,Permanent racing facility,44,308.176
+2011,Italian Grand Prix,1,Permanent racing facility,53,306.720
+2011,Singapore Grand Prix,3,Street circuit,61,309.087
+2011,Japanese Grand Prix,1,Permanent racing facility,53,307.573
+2011,Korean Grand Prix,3,Korea International Circuit,55,309.155
+2011,Indian Grand Prix,1,Permanent racing facility,60,307.249
+2011,Abu Dhabi Grand Prix,1,Yas Marina Circuit,55,305.470
+2011,Brazilian Grand Prix,1,Permanent racing facility,71,305.909
+2012,Australian Grand Prix,1,Temporary street circuit,58,307.574
+2012,Malaysian Grand Prix,3,Permanent racing facility,56,310.408
+2012,Chinese Grand Prix,2,Permanent racing facility,56,305.066
+2012,Bahrain Grand Prix,3,Permanent racing facility,57,308.238
+2012,Spanish Grand Prix,2,Permanent racing facility,66,307.104
+2012,Monaco Grand Prix,3,Street circuit,78,260.52
+2012,Canadian Grand Prix,3,Street circuit,70,305.270
+2012,European Grand Prix,1,Temporary street circuit,57,308.883
+2012,British Grand Prix,1,Permanent racing facility,Pas de données sur la distance,
+2012,German Grand Prix,1,Permanent racing facility,67,306.458
+2012,Hungarian Grand Prix,3,Permanent racing facility,69,302.249
+2012,Belgian Grand Prix,1,Permanent racing facility,44,308.052
+2012,Italian Grand Prix,1,Permanent racing facility,53,306.720
+2012,Singapore Grand Prix,3,Street circuit,59,299.170
+2012,Japanese Grand Prix,1,Permanent racing facility,53,307.471
+2012,Korean Grand Prix,1,Korea International Circuit,55,309.155
+2012,Indian Grand Prix,3,Permanent racing facility,60,307.249
+2012,Abu Dhabi Grand Prix,1,Permanent racing facility,55,305.355
+2012,United States Grand Prix,2,Permanent racing facility,56,308.405
+2012,Brazilian Grand Prix,3,Permanent racing facility,71,305.909
+2013,Australian Grand Prix,2,Temporary street circuit,58,307.574
+2013,Malaysian Grand Prix,3,Permanent racing facility,56,310.408
+2013,Chinese Grand Prix,1,Permanent racing facility,56,305.066
+2013,Bahrain Grand Prix,1,Permanent racing facility,57,308.238
+2013,Spanish Grand Prix,1,Permanent racing facility,66,307.024
+2013,Monaco Grand Prix,3,Street circuit,78,260.52
+2013,Canadian Grand Prix,1,Street circuit,70,305.270
+2013,British Grand Prix,1,Permanent racing facility,52,306.198
+2013,German Grand Prix,1,Permanent racing facility,60,308.863
+2013,Hungarian Grand Prix,3,Permanent racing facility,70,306.630
+2013,Belgian Grand Prix,1,Permanent racing facility,44,308.052
+2013,Italian Grand Prix,2,Permanent racing facility,53,307.029
+2013,Singapore Grand Prix,1,Street circuit,61,308.965
+2013,Korean Grand Prix,2,Permanent racing facility,55,309.155
+2013,Japanese Grand Prix,3,Permanent racing facility,53,307.471
+2013,Indian Grand Prix,3,Permanent racing facility,60,307.249
+2013,Abu Dhabi Grand Prix,1,Permanent racing facility,55,305.355
+2013,United States Grand Prix,3,Permanent racing facility,56,308.405
+2013,Brazilian Grand Prix,2,Permanent racing facility,71,305.909
+2014,Australian Grand Prix,2,Temporary street circuit,57,302.271
+2014,Malaysian Grand Prix,1,Permanent racing facility,56,310.408
+2014,Bahrain Grand Prix,1,Permanent racing facility,57,308.238
+2014,Chinese Grand Prix,2,Permanent racing facility,54,294.164
+2014,Spanish Grand Prix,1,Permanent racing facility,66,307.104
+2014,Monaco Grand Prix,2,Street circuit,78,260.520
+2014,Canadian Grand Prix,3,Street circuit,70,305.270
+2014,Austrian Grand Prix,3,Permanent racing facility,71,307.146
+2014,British Grand Prix,2,Permanent racing facility,52,306.198
+2014,German Grand Prix,2,Permanent racing facility,67,306.458
+2014,Hungarian Grand Prix,3,Permanent racing facility,70,306.630
+2014,Belgian Grand Prix,2,Permanent racing facility,44,308.052
+2014,Italian Grand Prix,1,Permanent racing facility,53,306.720
+2014,Singapore Grand Prix,1,Temporary street circuit,60,303.900
+2014,Japanese Grand Prix,3,Permanent racing facility,44,255.508
+2014,Russian Grand Prix,1,Semi-permanent racing facility,53,309.745
+2014,United States Grand Prix,1,Permanent racing facility,56,308.405
+2014,Brazilian Grand Prix,1,Permanent racing facility,71,305.909
+2014,Abu Dhabi Grand Prix,1,Permanent racing facility,55,305.355
+2015,Monaco Grand Prix,2,Street circuit,78,260.286
+2015,Canadian Grand Prix,1,Street circuit,70,305.270
+2015,Bahrain Grand Prix,1,Permanent Racing Facility,57,308.238
+2015,Spanish Grand Prix,1,Permanent racing facility,66,307.104
+2015,Chinese Grand Prix,1,Permanent Racing Facility,56,305.066
+2015,Australian Grand Prix,2,Temporary street circuit,58,307.574
+2015,Malaysian Grand Prix,1,Permanent racing facility,56,310.408
+2015,Austrian Grand Prix,2,Permanent racing facility,71,307.146
+2015,British Grand Prix,3,Permanent racing facility,52,306.198
+2015,Hungarian Grand Prix,1,Permanent racing facility,69,302.249
+2015,Belgian Grand Prix,2,Permanent racing facility,43,301.048
+2015,Italian Grand Prix,2,Permanent racing facility,53,306.720
+2015,Singapore Grand Prix,1,Temporary street circuit,61,308.828
+2015,Japanese Grand Prix,2,Permanent racing facility,53,307.471
+2015,Russian Grand Prix,2,Temporary street circuit,53,309.745
+2015,United States Grand Prix,2,Permanent racing facility,56,308.405
+2015,Mexican Grand Prix,2,Permanent racing facility,71,305.354
+2015,Brazilian Grand Prix,1,Permanent racing facility,71,305.909
+2015,Abu Dhabi Grand Prix,1,Permanent racing facility,55,305.355
+2016,Australian Grand Prix,2,Temporary street circuit,57,302.271
+2016,Bahrain Grand Prix,1,Permanent Racing Facility,57,308.238
+2016,Chinese Grand Prix,1,Permanent racing facility,56,305.066
+2016,Russian Grand Prix,2,Permanent racing facility,53,309.745
+2016,Spanish Grand Prix,2,Permanent racing facility,66,307.104
+2016,Monaco Grand Prix,3,Street circuit,78,260.286
+2016,Canadian Grand Prix,2,Street circuit,70,305.270
+2016,European Grand Prix,2,Temporary street circuit,51,306.049
+2016,Austrian Grand Prix,2,Permanent racing facility,71,307.146
+2016,British Grand Prix,3,Permanent racing facility,52,306.198
+2016,German Grand Prix,2,Permanent racing facility,67,306.458
+2016,Belgian Grand Prix,2,Permanent racing facility,44,308.052
+2016,Italian Grand Prix,3,Permanent racing facility,53,306.720
+2016,Singapore Grand Prix,1,Temporary street circuit,61,308.828
+2016,Malaysian Grand Prix,1,Permanent racing facility,56,310.408
+2016,Japanese Grand Prix,2,Permanent racing facility,53,307.573
+2016,United States Grand Prix,3,Permanent racing facility,56,308.405
+2016,Mexican Grand Prix,1,Permanent racing facility,71,305.354
+2016,Brazilian Grand Prix,3,Permanent racing facility,71,305.909
+2016,Abu Dhabi Grand Prix,1,Permanent racing facility,55,305.470
+2017,Australian Grand Prix,2,Temporary street circuit,57,302.271
+2017,Chinese Grand Prix,3,Permanent racing facility,56,305.066
+2017,Bahrain Grand Prix,1,Permanent racing facility,57,308.238
+2017,Russian Grand Prix,1,Permanent racing facility,52,303.897
+2017,Spanish Grand Prix,1,Permanent racing facility,66,307.104
+2017,Monaco Grand Prix,1,Street circuit,78,260.286
+2017,Canadian Grand Prix,3,Street circuit,70,305.270
+2017,Azerbaijan Grand Prix,1,Temporary street circuit,51,306.049
+2017,Austrian Grand Prix,2,Permanent racing facility,71,306.452
+2017,British Grand Prix,2,Permanent racing facility,51,300.307
+2017,Hungarian Grand Prix,1,Permanent racing facility,70,306.630
+2017,Belgian Grand Prix,2,Permanent racing facility,44,308.052
+2017,Italian Grand Prix,1,Permanent racing facility,53,306.720
+2017,Singapore Grand Prix,3,Temporary street circuit,58,293.633
+2017,Malaysian Grand Prix,2,Permanent racing facility,56,310.408
+2017,Japanese Grand Prix,1,Permanent racing facility,53,307.471
+2017,United States Grand Prix,1,Permanent racing facility,56,308.405
+2017,Mexican Grand Prix,1,Permanent racing facility,71,305.354
+2017,Brazilian Grand Prix,1,Permanent racing facility,71,305.909
+2017,Abu Dhabi Grand Prix,1,Permanent racing facility,55,305.355
+2018,Australian Grand Prix,1,Temporary street circuit,58,307.574
+2018,Bahrain Grand Prix,1,Permanent racing facility,57,308.238
+2018,Chinese Grand Prix,1,Permanent racing facility,56,305.066
+2018,Azerbaijan Grand Prix,2,Temporary street circuit,51,306.049
+2018,Spanish Grand Prix,2,Permanent racing facility,66,307.104
+2018,Monaco Grand Prix,1,Street circuit,78,260.286
+2018,Canadian Grand Prix,3,Street circuit,68,296.548
+2018,French Grand Prix,3,Permanent racing circuit,53,309.690
+2018,Austrian Grand Prix,1,Permanent racing facility,71,306.452
+2018,British Grand Prix,1,Permanent racing facility,52,306.198
+2018,German Grand Prix,3,Permanent racing facility,67,306.458
+2018,Hungarian Grand Prix,1,Permanent racing facility,70,306.630
+2018,Belgian Grand Prix,1,Permanent racing facility,44,308.052
+2018,Italian Grand Prix,1,Permanent racing facility,53,306.720
+2018,Singapore Grand Prix,1,Temporary street circuit,61,308.706
+2018,Russian Grand Prix,1,Permanent racing facility,53,309.745
+2018,Japanese Grand Prix,1,Permanent racing facility,53,307.471
+2018,United States Grand Prix,1,Permanent racing facility,56,308.405
+2018,Mexican Grand Prix,1,Permanent racing facility,71,305.354
+2018,Brazilian Grand Prix,1,Permanent racing facility,71,305.879
+2018,Abu Dhabi Grand Prix,1,Permanent racing facility,55,305.355
+2019,Australian Grand Prix,1,Temporary street circuit,58,307.574
+2019,Bahrain Grand Prix,1,Permanent racing facility,57,308.238
+2019,Chinese Grand Prix,1,Permanent racing facility,56,305.066
+2019,Azerbaijan Grand Prix,1,Temporary street circuit,51,306.049
+2019,Spanish Grand Prix,1,Permanent racing facility,66,307.104
+2019,Monaco Grand Prix,2,Street circuit,78,260.286
+2019,Canadian Grand Prix,3,Street circuit,70,305.270
+2019,French Grand Prix,1,Permanent racing circuit,53,309.690
+2019,Austrian Grand Prix,1,Permanent racing facility,71,306.452
+2019,British Grand Prix,2,Permanent racing facility,52,306.198
+2019,German Grand Prix,3,Permanent racing facility,64,292.736
+2019,Hungarian Grand Prix,1,Permanent racing facility,70,306.630
+2019,Belgian Grand Prix,2,Permanent racing facility,44,308.052
+2019,Italian Grand Prix,2,Permanent racing facility,53,306.720
+2019,Singapore Grand Prix,3,Temporary street circuit,61,308.706
+2019,Russian Grand Prix,2,Permanent racing facility,53,309.745
+2019,Japanese Grand Prix,1,Permanent racing facility,52,301.664
+2019,Mexican Grand Prix,2,Permanent racing facility,71,305.354
+2019,United States Grand Prix,1,Permanent racing facility,56,308.405
+2019,Brazilian Grand Prix,1,Permanent racing facility,71,305.879
+2019,Abu Dhabi Grand Prix,1,Permanent racing facility,55,305.355
+2020,Austrian Grand Prix,1,Permanent racing facility,71,306.452
+2020,Styrian Grand Prix,1,Permanent racing facility,71,306.452
+2020,Hungarian Grand Prix,3,Permanent racing facility,70,306.630
+2020,British Grand Prix,2,Permanent racing facility,52,306.198
+2020,70th Anniversary Grand Prix,1,Permanent racing facility,52,306.198
+2020,Spanish Grand Prix,2,Permanent racing facility,66,307.104
+2020,Belgian Grand Prix,2,Permanent racing facility,44,308.052
+2020,Italian Grand Prix,1,Permanent racing facility,53,306.720
+2020,Tuscan Grand Prix,1,Permanent racing facility,59,309.497
+2020,Russian Grand Prix,1,Permanent racing facility,53,309.745
+2020,Eifel Grand Prix,2,Permanent racing facility,60,308.617
+2020,Portuguese Grand Prix,2,Permanent racing facility,66,306.826
+2020,Emilia Romagna Grand Prix,2,Permanent racing facility,63,309.049
+2020,Turkish Grand Prix,3,Permanent racing facility,58,309.396
+2020,Bahrain Grand Prix,1,Permanent racing facility,57,308.238
+2020,Sakhir Grand Prix,1,Permanent racing facility,87,307.995
+2020,Abu Dhabi Grand Prix,1,Permanent racing facility,55,305.355
+2021,Emilia Romagna Grand Prix,3,Permanent racing facility,63,309.049
+2021,Bahrain Grand Prix,1,Permanent racing facility,56,302.826
+2021,Qatar Grand Prix,1,Permanent racing facility,57,306.660
+2021,Portuguese Grand Prix,2,Permanent racing facility,66,306.826
+2021,Spanish Grand Prix,2,Permanent racing facility,66,308.424
+2021,Monaco Grand Prix,1,Street circuit,78,260.286
+2021,Azerbaijan Grand Prix,1,Street circuit,51,306.049
+2021,Styrian Grand Prix,2,Permanent racing circuit,71,306.452
+2021,French Grand Prix,3,Permanent racing circuit,53,309.690
+2021,Austrian Grand Prix,2,Permanent racing facility,71,306.452
+2021,British Grand Prix,1,Permanent racing facility,52,306.198
+2021,Hungarian Grand Prix,3,Permanent racing facility,70,306.630
+2021,Belgian Grand Prix,3,Permanent racing facility,1,
+2021,Dutch Grand Prix,1,Permanent racing facility,72,306.587
+2021,Italian Grand Prix,1,Permanent racing facility,53,306.72
+2021,Russian Grand Prix,3,Permanent racing facility,53,309.745
+2021,Turkish Grand Prix,3,Permanent racing facility,58,309.396
+2021,United States Grand Prix,1,Permanent racing facility,56,308.405
+2021,Mexico City Grand Prix,1,Permanent racing facility,71,305.354
+2021,São Paulo Grand Prix,1,Permanent racing facility,71,305.879
+2021,Saudi Arabian Grand Prix,1,Street Circuit,50,308.450
+2021,Abu Dhabi Grand Prix,1,Permanent racing facility,58,306.183
